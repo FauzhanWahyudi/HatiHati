@@ -5,7 +5,6 @@ HatiHati is a visualization and crime reporting application that utilizes map-ba
 
 # Technologies/Libraries
 
-***
 A list of technologies used within the project:
 * Kotlin
 * Dialogflow
